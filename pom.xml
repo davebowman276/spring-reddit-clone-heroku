@@ -14,9 +14,11 @@
     <name>spring-reddit-clone</name>
     <description>Demo project for Spring Boot</description>
 
-    <properties>
+    <properties> 
         <java.version>1.8</java.version>
-        <org.mapstruct.version>1.3.1.Final</org.mapstruct.version>
+        		<m2e.apt.activation>jdt_apt</m2e.apt.activation>
+        
+        <org.mapstruct.version>1.4.0.Final</org.mapstruct.version>
     </properties>
 
     <dependencies>
